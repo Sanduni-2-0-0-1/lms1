@@ -1,8 +1,9 @@
-LMS project
+<img width="2373" height="5456" alt="LMS_preview" src="https://github.com/user-attachments/assets/c0a1fa48-ee44-4eca-b17a-62df4f0efc18" />LMS project
 
 Preview
 
-![Uploading 127.0.0.1_5500_.png…]()
+![Homepage Screenshot](assets/images/LMS_preview.png)
+
 
 Features
 - Responsive design  
