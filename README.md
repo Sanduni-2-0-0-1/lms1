@@ -2,7 +2,7 @@
 
 Preview
 
-![Homepage](assets/images/LMS_preview.png)
+![](assets/images/LMS_preview.png)
 
 
 Features
